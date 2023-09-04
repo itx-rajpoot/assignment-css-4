@@ -1,0 +1,290 @@
+body{
+    overflow-x: hidden;
+}
+#main-page {
+    background-color: #3d4dff;
+    height: 630px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 2600px;
+    background-image: url(./e6d57714479874c665b36c7adee76b1d.svg);
+    color: white;
+
+}
+
+nav ul li {
+    list-style-type: none;
+    display: inline;
+    margin-left: 30px;
+    text-emphasis-style: ;
+
+}
+
+nav ul {
+    text-align: center;
+    position: relative;
+    margin-top: -30px;
+    margin-left: 270px;
+}
+
+#login-button {
+    position: relative;
+    margin-left: 230px;
+}
+
+#image1 {
+    position: absolute;
+    margin-left: -400px;
+    margin-top: -130px;
+}
+
+#image2 {
+    position: absolute;
+    margin-left: 1020px;
+    margin-top: -140px;
+}
+
+#sentence1 {
+    position: relative;
+    margin-top: 120px;
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 70px;
+}
+
+#paragraph1 {
+    font-size: 20px;
+    margin-top: 35px;
+}
+
+#buttons {
+    position: relative;
+    margin-bottom: 100px;
+    margin-top: 40px;
+    size: 500px;
+}
+
+#sentence-page2 {
+    position: relative;
+    margin-top: -380px;
+    margin-left: 840px;
+    margin-right: 20px;
+}
+
+#img-page2 {
+    position: relative;
+    margin-left: 40px;
+
+}
+
+#page2 {
+    margin-top: 120px;
+}
+
+#paragraph-page2 {
+    font-size: 20px;
+    margin-right: 40px;
+    margin-top: 30px;
+}
+
+#heading-page2 {
+    font-family: 'impact' 'Archivo Black', sans-serif;
+    font-weight: 800;
+    font-weight: bold;
+    font-size: 45px;
+
+}
+
+#paragraph-page3 {
+    font-size: 20px;
+    margin-right: 40px;
+    margin-top: 30px;
+}
+
+#img-page3 {
+    margin-top: -360px;
+    position: relative;
+    margin-left: 520px;
+
+}
+
+#page3 {
+    background-color: rgba(220, 220, 220, 0.384);
+    margin-top: 160px;
+    padding: 20px;
+    padding-bottom: 125px;
+}
+
+#sentence-page3 {
+    position: relative;
+    margin-top: 180px;
+    margin-left: 20px;
+    margin-right: 840px;
+}
+
+#heading-page3 {
+    font-family: 'impact' 'Archivo Black', sans-serif;
+    font-weight: 800;
+    font-weight: bold;
+    font-size: 45px;
+}
+
+#sentence-page4 {
+    position: relative;
+    margin-top: -380px;
+    margin-left: 840px;
+    margin-right: 20px;
+}
+
+#img-page4 {
+    position: relative;
+    margin-left: 40px;
+
+}
+
+#page4 {
+    margin-top: 120px;
+}
+
+#paragraph-page4 {
+    font-size: 20px;
+    margin-right: 40px;
+    margin-top: 30px;
+}
+
+#heading-page4 {
+    font-family: 'impact' 'Archivo Black', sans-serif;
+    font-weight: 800;
+    font-weight: bold;
+    font-size: 45px;
+}
+
+#page5 {
+    background-color: rgba(220, 220, 220, 0.384);
+    margin-top: 250px;
+    padding: 20px;
+    padding-bottom: 125px;
+
+}
+
+#sentence-page5 {
+    padding-top: 80px;
+}
+
+#heading-page5 {
+    font-family: 'impact' 'Archivo Black', sans-serif;
+    font-weight: 1000;
+    font-weight: bold;
+    font-size: 55px;
+}
+
+#paragraph-page5 {
+    margin-top: 30px;
+    font-size: 18px;
+    margin-left: 130px;
+    margin-right: 130px;
+}
+
+#img-page5 {
+    position: relative;
+    margin-top: -10px;
+}
+
+#img-2-page5 {
+    position: relative;
+    margin-bottom: -27px;
+}
+
+#heading-2-page5 {
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+#button-page5 {
+    position: relative;
+    margin-top: 25px;
+}
+
+#last {
+    background-color: #2c2f33;
+    padding-top: 80px;
+    padding-bottom: 100px;
+}
+
+#last #list1 li {
+    color: white;
+    list-style-type: none;
+    position: relative;
+    margin: 15px;
+
+}
+
+#list1 {
+    position: relative;
+    margin-left: 400px;
+}
+
+#last #list2 li {
+    color: white;
+    list-style-type: none;
+    position: relative;
+    margin: 15px;
+}
+
+#list2 {
+    position: relative;
+    margin-left: 600px;
+    margin-top: -200px;
+}
+
+#list3 {
+    position: relative;
+    margin-left: 800px;
+    margin-top: -200px;
+}
+
+#last #list3 li {
+    color: white;
+    list-style-type: none;
+    position: relative;
+    margin: 15px;
+}
+
+#last #list4 li {
+    color: white;
+    list-style-type: none;
+    position: relative;
+    margin: 15px;
+}
+
+#list4 {
+    position: relative;
+    margin-left: 1000px;
+    margin-top: -430px;
+}
+
+#icons-language {
+    position: absolute;
+    margin-top: -300px;
+    margin-left: 40px;
+}
+#icons{
+    position: relative;
+    margin-top: 17px;
+}
+.icon{
+    margin: 10px;
+}
+#line{
+    color: #5865F2;
+    position: relative;
+    margin-top: 200px;
+}
+#last-icon{
+    color: white;
+}
+#signup-button{
+    position: relative;
+    margin-top: -40px;
+    margin-left: 1150px;
+}
